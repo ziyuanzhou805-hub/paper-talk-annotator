@@ -1,0 +1,4 @@
+interface:
+  display_name: "论文精读与组会批注"
+  short_description: "核实论文方法，写带页码的组会讲稿和可直接阅读的详细 PDF 页边解读"
+  default_prompt: "用 $paper-talk-annotator 精读这篇论文，先写带页码和图表提示的组会讲稿，再把具体的方法、图表与结果解释写成同页可见的可编辑 PDF 页边批注。"
